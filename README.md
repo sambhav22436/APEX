@@ -19,7 +19,7 @@ Some Features:
 thanks to a human from youtube who helped APE build
 
 
-<img width="1710" alt="home" src="https://github.com/sambhav22436/APEX/assets/131666503/af813556-f296-4d8d-82ad-8c34c4f6cfea">
 
-<img width="1710" alt="Wonderful_Day" src="https://github.com/sambhav22436/APEX/assets/131666503/c284aae3-5665-496c-be75-083aca0ad630">
 
+![home](https://github.com/sambhav22436/APEX/assets/131666503/a49b6971-790c-4fa6-a685-7135fc674e01)
+![Wonderful_Day](https://github.com/sambhav22436/APEX/assets/131666503/feb38ac1-4179-406c-8024-4f3ffbf98be1)
